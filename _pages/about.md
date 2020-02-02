@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm David, currently a fourth year undergraduate student in Statistics and Biology at Harvard College.
+Hi! I'm David, currently a fourth year undergraduate student in Statistics and Biology at Harvard College.
 
 Broadly, my research interests are in developing statistical methods for problems in infectious diseases, protein design, and drug discovery. I am currently writing a senior thesis with professor [Debora Marks](https://marks.hms.harvard.edu/) on semi-supervised approaches to protein design that harness both experimental data and evolutionary information about the protein. See my [research](https://dkmy.github.io/research/) page for more information and recent publications. 
 
