@@ -16,6 +16,6 @@ redirect_from:
 
 * Suresh A\*, * Yang DK\*, Semi-supervised Learning of Protein Properties in Low-resource Settings. Manuscript in progress
 
-Yang, DK, Levy, A. Salleb-Aouissi, A. On Personalized Prediction Models of Human Motion Recognition Using Smartphone Data. In New York Academy of Sciences 9th Annual Machine Learning Symposium, 2015
+* Yang, DK, Levy, A. Salleb-Aouissi, A. On Personalized Prediction Models of Human Motion Recognition Using Smartphone Data. In New York Academy of Sciences 9th Annual Machine Learning Symposium, 2015
 
-Kim, T., Yang, D., Kim, J., Musaev, H., Navarro, AE. Comparative Adsorption of highly porous and raw adsorbents for the elimination of copper (II) ions from wastewaters. Trends in Chromatography, 2013
+* Kim, T., Yang, D., Kim, J., Musaev, H., Navarro, AE. Comparative Adsorption of highly porous and raw adsorbents for the elimination of copper (II) ions from wastewaters. Trends in Chromatography, 2013
