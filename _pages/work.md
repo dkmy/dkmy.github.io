@@ -9,7 +9,7 @@ redirect_from:
 ## Work Experience ##
 
 Incoming Summer Associate, 8VC (Summer 2020)
-* Biotech Venture Capital
+* Biotech venture capital
 
 Software Engineering Intern, Facebook (Summer 2019)
-* Machine Learning backend at Assistant team under AR/VR org
+* Machine learning backend at Assistant team under AR/VR org
