@@ -8,7 +8,7 @@ redirect_from:
 
 ## Publications ##
 
-* Yang DK\*, Goldman S\*, Weinstein E, Marks D. Generative models for codon prediction and optimization. In Neural Information Processing Systems (NeurIPS) Workshop in Learning Meaningful Representations of Life, 2019
+* Yang DK\*, Goldman S\*, Weinstein E, Marks D. Generative models for codon prediction and optimization. In Neural Information Processing Systems (NeurIPS) Workshop in Learning Meaningful Representations of Life, 2019 ([link](https://drive.google.com/file/d/1OOJdamK2suqSyB7Rkf0zupGIzVXDBIxc/view?usp=sharing))
 
 * Metsky HC\*, Siddle KJ\*, Gladden-Young A, Qu J, Yang DK, et al. Capturing sequence diversity in metagenomes with comprehensive and scalable probe design. Nature Biotechnology, 2019 ([link](https://www.nature.com/articles/s41587-018-0006-x))
 
